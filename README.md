@@ -1,2 +1,2 @@
 # NuclearOS
-This is the oprating systm in HTML.
+This is the operating system in HTML.
