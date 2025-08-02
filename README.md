@@ -1,6 +1,6 @@
 <body style="margin: 0; padding: 0; overflow: hidden;">
 
-<div id="mono" style="background: url('https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_6.jpg'); font-family: monospace; height: 100vh; margin: 0; padding: 0; width: 100%; color: white;">
+<div id="mono" style="background: url('https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_37.jpg'); font-family: monospace; height: 100vh; margin: 0; padding: 0; width: 100%; color: white;">
 
 # NuclearOS
 This is the operating system in HTML.
